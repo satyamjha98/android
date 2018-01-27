@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/XhaustedOS/android/cm-14.1/xhos.jpg">
+
 Xhausted OS
 ===========
 
@@ -21,6 +23,6 @@ Compilation
 
     source build/envsetup.sh
 
-    lunch xos_$codename    
+    lunch xhos_$codename    
 
     brunch $codename
